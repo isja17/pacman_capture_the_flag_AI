@@ -35,3 +35,12 @@ The red team is my team, the blue team is a given team which we tested ours agai
 
 Note: if this does not work, make sure you have Python installed. If you do, make sure your calling Python 
 correctly based on how you set it in PATH.
+
+
+Work I did:
+
+1. The minimax algorithm was written by me and Sasha Valone.
+
+2. I created the prototypes for both agents, then worked with my teammates on making the agents good. While I helped
+   improve both agents, I primarily worked onthe offensive agent along with Elliot, while Sasha made improvements to 
+   the defensive agent.
