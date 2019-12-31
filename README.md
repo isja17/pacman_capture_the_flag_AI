@@ -2,7 +2,7 @@ This was made by Sasha Valone, Elliot Tower and me, Isaac Allison.
 
 All of our work is in the file capture.py.
 
-This file includes two minimax q-learning agents which competed in my classes Capture the Flag tournament. 
+This file includes two minimax agents which competed in my classes Capture the Flag tournament. 
 We won 34/50 matches against our classmates AI, earning us an 100% on the project. 
 
 The Capture the Flag Pacman game has the following rules:
